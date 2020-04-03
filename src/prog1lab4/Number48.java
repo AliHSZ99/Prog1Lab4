@@ -30,6 +30,6 @@ public class Number48 {
         }
 
         System.out.println("There are " + multiple7 + " multiples of seven betweenthe"
-                + " numbers 33 and 97, inclusive.");
+            + " numbers 33 and 97, inclusive.");
     }
 }
