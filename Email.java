@@ -45,7 +45,7 @@ public class Email {
         if (atFound == 1 && dot >= 1) {
             System.out.println("The email " + email + " entered is valid!!!");
         } else {
-            System.out.println("The email " + email + " entered is invalid...");
+            System.out.println("The email " + email + " entered is invalid..."); 
         }
 
     }
